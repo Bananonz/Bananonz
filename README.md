@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Bananonz___</h1>
 <h3 align="center">I'm a random guy o.o</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bananonz&label=Profile%20views&color=0e75b6&style=flat" alt="bananonz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bananonz&label=Profile%20views&color=ff0000&style=flat" alt="bananonz" /> </p>
 
-- 🔭 I’m currently working on [CuteCat](https://dsc.gg/cute.cat)
+👋 Hello! It's me, Bananonz!
 
-- 🌱 I’m currently learning **Javascript**
+✨ I'm currently learing javascript!
 
-- 🤝 I’m looking for help with **cutecat's website**
+🎈 I'm the creator of [CuteCat](https://dsc.gg/cute.cat)
 
-- 💬 Ask me about **Like code stuff in javascript and i love cats**
+<p align="left"> <a href="https://top.gg/bot/766631717078564886">
+ <p align="left"> <img src="https://top.gg/api/widget/766631717078564886.svg" alt="CuteCat" />
+  </a>
 
-- ⚡ Fun fact **i have a penny in a bottle**
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lang:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bananonz&show_icons=true&locale=en" alt="bananonz" /></p>
