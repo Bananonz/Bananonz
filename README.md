@@ -5,7 +5,7 @@
 
 👋 Hello! It's me, Bananonz!
 
-✨ I'm currently learing javascript!
+✨ I'm currently learning javascript!
 
 🎈 I'm the creator of [CuteCat](https://dsc.gg/cute.cat)
 
