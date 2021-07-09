@@ -2,9 +2,6 @@
 <h3 align="center">I'm a random guy o.o</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bananonz&label=Profile%20views&color=ff0000&style=flat" alt="bananonz" /> </p>
-<p align="left"> <img src="https://discordapp.com/api/guilds/780336977785651221/widget.png?style=shield" alt="Discord Shield"/> </p>
-<img src="https://discordapp.com/api/guilds/[780336977785651221]/widget.png?style=shield" alt="Discord Shield"/>
-
 
 👋 Hello! It's me, Bananonz!
 
