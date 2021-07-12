@@ -9,6 +9,9 @@
 
 🎈 I'm the creator of [CuteCat](https://dsc.gg/cute.cat)
 
+My discord account:
+<img height="100px" src="https://discord.c99.nl/widget/theme-4/660477458209964042.png">
+
 <p align="left"> <a href="https://top.gg/bot/766631717078564886">
  <p align="left"> <img src="https://top.gg/api/widget/766631717078564886.svg" alt="CuteCat" />
   </a>
