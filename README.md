@@ -9,6 +9,8 @@
 
 🎈 I'm the creator of [CuteCat](https://dsc.gg/cute.cat)
 
+🔗 (Website)[https://www.bananonz.dev] | (CuteCat Website)[https://www.cutecat.click]
+
 My discord account:
 
 <img height="100px" src="https://discord.c99.nl/widget/theme-4/660477458209964042.png">
