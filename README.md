@@ -24,4 +24,4 @@ My discord account:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bananonz&show_icons=true&locale=en" alt="bananonz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" alt="bananonz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bananonz" alt="bananonz" /></p>
