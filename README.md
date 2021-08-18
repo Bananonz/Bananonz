@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bananonz___</h1>
-<h3 align="center">I'm a random guy o.o</h3>
+<h3 align="center"I do things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bananonz&label=Profile%20views&color=ff0000&style=flat" alt="bananonz" /> </p>
 
