@@ -15,9 +15,6 @@ My discord account:
 
 <img height="100px" src="https://discord.c99.nl/widget/theme-4/660477458209964042.png">
 
-<p align="left"> <a href="https://top.gg/bot/766631717078564886">
- <p align="left"> <img src="https://top.gg/api/widget/766631717078564886.svg" alt="CuteCat" />
-  </a>
 
 <h3 align="left">Lang:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
@@ -25,3 +22,7 @@ My discord account:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bananonz&show_icons=true&locale=en" alt="bananonz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bananonz" alt="bananonz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bananonz&show_icons=true&theme=radical" alt="bananonz" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
