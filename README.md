@@ -1,15 +1,8 @@
-<h1 align="center">Hi 👋, I'm Bananonz___</h1>
-<h3 align="center"I do things</h3>
+<h1>Hi 👋, I'm Bananonz___</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bananonz&label=Profile%20views&color=ff0000&style=flat" alt="bananonz" /> </p>
+🎈 [CuteCat](https://cutecat.click) Developer
 
-👋 Hello! It's me, Bananonz!
-
-✨ I'm currently learning javascript!
-
-🎈 I'm the creator of [CuteCat](https://dsc.gg/cute.cat)
-
-🔗 [Website](https://www.bananonz.dev) | [CuteCat Website](https://www.cutecat.click)
+🔗 [Website](https://www.bananonz.dev) 
 
 <img height="100px" src="https://discord.c99.nl/widget/theme-4/660477458209964042.png">
 
