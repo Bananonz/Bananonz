@@ -14,4 +14,4 @@
 <a href="https://discord.gg/eQDtFDnb6x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eQDtFDnb6x" height="30" width="40" /></a>
 </p>
 
-[![Activityh](https://activity-graph.herokuapp.com/graph?username=Bananonz&bg_color=3a3638&color=e4c98&line=ffe01a&point=03d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activityh](data-canonical-src="https://github-readme-stats.vercel.app/api?username=bananonz&theme=tokyonight")]
