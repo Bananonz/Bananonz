@@ -14,4 +14,4 @@
 <a href="https://discord.gg/eQDtFDnb6x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eQDtFDnb6x" height="30" width="40" /></a>
 </p>
 
-[![Activity](https://github-readme-stats.vercel.app/api?username=bananonz&theme=tokyonight]
+[![Activity](https://github-readme-stats.vercel.app/api?username=bananonz&theme=tokyonight]]
