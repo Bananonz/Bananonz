@@ -4,7 +4,7 @@
 
 🔗 [Website](https://www.bananonz.dev) 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/660477458209964042)]
+![Discord Presence](https://lanyard.cnrad.dev/api/660477458209964042)
 
 <p align="left"> <a href="https://twitter.com/bananonz_" target="blank"><img src="https://img.shields.io/twitter/follow/bananonz_?logo=twitter&style=for-the-badge" alt="bananonz_" /></a> </p>
 
