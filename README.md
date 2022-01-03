@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Bananonz___</h1>
 
-• [CuteCat](https://cutecat.click) Developer
+• [CuteCat](https://cutecat.click) Developer.
+
 • [Website](https://www.bananonz.dev) 
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/660477458209964042)
