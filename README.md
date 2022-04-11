@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Bananonz___</h1>
 
-• [CuteCat](https://cutecat.click) Developer.
+• [CuteCat](https://cutecat.click) Developer.\n
 • [Website](https://www.bananonz.dev) 
 
 Most of my projects are private, so yes
