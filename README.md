@@ -2,13 +2,13 @@
 
 #Projects 
 
-My first big project: [CuteCat](https://cutecat.click) a cringy cute discord bot.
+- My first big project: [CuteCat](https://cutecat.click) a cringy cute discord bot.
 
-Rest API: [bananonz.dev](https://api.bananonz.dev) simple with a few endpoints.
+- Rest API: [bananonz.dev](https://api.bananonz.dev) simple with a few endpoints.
 
-NPM Package: [bananonz-wrapper](https://bananonz.dev/bananonz-wrapper) made to simplify requests with the api
+- NPM Package: [bananonz-wrapper](https://bananonz.dev/bananonz-wrapper) made to simplify requests with the api
 
-Discord tools: [tools](https://tools.bananonz.dev) website to update discord avatars/banners automatically
+- Discord tools: [tools](https://tools.bananonz.dev) website to update discord avatars/banners automatically
 
 What i'm doin'
 ![Discord Presence](https://lanyard.cnrad.dev/api/660477458209964042)
