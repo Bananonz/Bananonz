@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Bananonz</h1>
 
-#Projects 
+> Projects 
 
 - My first big project: [CuteCat](https://cutecat.click) a cringy cute discord bot.
 
