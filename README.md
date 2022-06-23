@@ -1,7 +1,7 @@
 <h3>Hi 👋, I'm Bananonz</h3>
 I'm a developer from Italy, I started coding back in 2020, I don't use usually GitHub because most of my projects are private and are too hard to maintain on GitHub too. If you wan't to contact me send me a message on twitter or [discord](https://discord.bananonz.dev)
 
-##Projects
+## Projects
 
 - My first big project: [CuteCat](https://cutecat.click) a cringy cute discord bot.
 
