@@ -13,6 +13,8 @@ I'm a developer from Italy, I started coding back in 2020, I don't use usually G
 
 - Owner of a bunch of verified Discord Bots, bored of them rip (looking for mantainers).
 
+[![Coded for](https://wakatime.com/badge/user/6d679d0d-4091-441a-876e-086352c2b315.svg)](https://wakatime.com/@6d679d0d-4091-441a-876e-086352c2b315)
+
 What i'm doin'
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/660477458209964042)
