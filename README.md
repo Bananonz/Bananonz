@@ -13,7 +13,8 @@ I'm a developer from Italy, I started coding back in 2020, I don't use usually G
 
 - Owner of a bunch of verified Discord Bots, bored of them rip (looking for mantainers).
 
-### Infomation, Statistics & Editors
+### Infomrations, Links, Languages & Donations
+
 
 [![Kofi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/bananonz) 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.bananonz.dev)
