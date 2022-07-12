@@ -29,6 +29,6 @@ I'm a developer from Italy, I started coding back in 2020, I don't use usually G
 
 What i'm doin'
 
-![Discord Presence](https://lanyard.cnrad.dev/api/660477458209964042)
+![DiscordPresence](https://lanyard.cnrad.dev/api/660477458209964042)
 
 
