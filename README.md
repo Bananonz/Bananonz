@@ -21,7 +21,8 @@ I'm a developer from Italy, I started coding back in 2020, I don't use usually G
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/g0gi8surwac7cjs4nnpwttyen?si=0eda515ee8574fe0)
 
 [![Coded for](https://wakatime.com/badge/user/6d679d0d-4091-441a-876e-086352c2b315.svg)](https://wakatime.com/@6d679d0d-4091-441a-876e-086352c2b315)
 
@@ -29,5 +30,4 @@ What i'm doin'
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/660477458209964042)
 
-<p align="left"> <a href="https://twitter.com/bananonz_" target="blank"><img src="https://img.shields.io/twitter/follow/bananonz_?logo=twitter&style=for-the-badge" alt="bananonz_" /></a> </p>
 
