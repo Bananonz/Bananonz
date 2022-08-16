@@ -3,7 +3,7 @@ I'm a developer from Italy, I started coding back in 2020, I don't use usually G
 
 ## Projects
 
-- Owner (aka Developer) of [Green-Bot](https://green-bot.app), the 83rd bigger bot on discord!
+- Owner (aka Developer) of [Green-Bot](https://green-bot.app), the 67th bigger bot on discord!
 
 - Rest API: [bananonz.dev](https://api.bananonz.dev) simple with a few endpoints, used usually for personal projects.
 
