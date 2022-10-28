@@ -11,7 +11,7 @@ I'm a developer from Italy, I started coding back in 2020, I don't use usually G
 
 - Discord tools: [tools](https://tools.bananonz.dev) website to update discord avatars/banners automatically always for my projects.
 
-- Owner of a bunch of verified Discord Bots, bored of them rip (looking for mantainers).
+- Owner of a bunch of verified Discord Bot, 
 
 ### Infomrations, Links, Languages & Donations
 
