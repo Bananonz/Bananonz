@@ -7,7 +7,7 @@ I'm a developer from Italy, I started coding back in 2020, I don't use usually G
 
 - Rest API: [bananonz.dev](https://api.bananonz.dev) simple with a few endpoints, used usually for personal projects.
 
-- NPM Package: [bananonz-wrapper](https://bananonz.dev/bananonz-wrapper) made to simplify requests with the api, fucking outdated ;p.
+- NPM Package: [bananonz-wrapper](https://bananonz.dev/bananonz-wrapper) made to simplify requests with the api, Endpoints aren't updated 
 
 - Discord tools: [tools](https://tools.bananonz.dev) website to update discord avatars/banners automatically always for my projects.
 
