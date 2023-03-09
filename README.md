@@ -1,7 +1,8 @@
 <h1>Hi 👋, I'm Bananonz.</h1>
 I'm a developer from Italy, I started coding back in 2020, I don't use usually GitHub because most of my projects are private and are too hard to maintain on GitHub too. If you wan't to contact me send me a message on twitter or at https://discord.bananonz.dev
 
-## Projects
+## Projects & Roles
+- Maintainer of [PopCat](https://popcat.xyz) with over 10 different features and a api with over 200k daily requests!
 
 - Ex Owner of [Green-Bot](https://green-bot.app), the 46th bigger bot on discord!
 
