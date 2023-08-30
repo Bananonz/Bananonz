@@ -2,17 +2,13 @@
 I'm a developer from Italy, I started coding back in 2020, I don't use usually GitHub because most of my projects are private. If you wan't to contact me send me a message on twitter or at https://discord.bananonz.dev
 
 ## Projects & Roles
-- Maintainer of [PopCat](https://popcat.xyz) with over 10 different features and a api with over 500k daily requests!
+- Maintainer of [PopCat](https://popcat.xyz) with over 10 different features and an api with over 500k daily requests!
 
-- Ex Owner of [Green-Bot](https://green-bot.app), the 38th bigger bot on discord!
+- Ex Owner of [Green-Bot](https://green-bot.app), the 35th bigger bot on discord!
 
-- Rest API: [bananonz.dev](https://api.bananonz.dev) simple with a few endpoints, used usually for personal projects.
+- Ex Owner of a bunch of verified Discord Bot, APIs, NPM packages and more
 
-- NPM Package: [bananonz-wrapper](https://bananonz.dev/bananonz-wrapper) made to simplify requests with the api, Endpoints aren't updated 
-
-- Discord tools: [tools](https://tools.bananonz.dev) website to update discord avatars/banners automatically always for my projects.
-
-- Owner of a bunch of verified Discord Bot, 
+- Currently managing a local radio website. 
 
 ### Informations, Links, Languages 
 
