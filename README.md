@@ -44,4 +44,4 @@ You can see what I'm up to on Discord through my presence status:
 ![DiscordPresence](https://lanyard.cnrad.dev/api/660477458209964042)
 
 Feel free to connect and chat about tech, projects, or anything that piques your interest!
-(a special thank to my english teacher for correcting all my writing mistakes)
+
