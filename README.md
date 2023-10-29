@@ -1,30 +1,47 @@
-<h1>Hi 👋, I'm Bananonz.</h1>
-I'm a developer from Italy, I started coding back in 2020, I don't use usually GitHub because most of my projects are private. If you wan't to contact me send me a message on twitter or at https://discord.bananonz.dev
+# Bananonz - Coding Enthusiast 🚀
 
-## Projects & Roles
-- Maintainer of [PopCat](https://popcat.xyz) with over 10 different features and an api with over 500k daily requests!
+Hey there! 👋 I'm Bananonz, a coding enthusiast from Italy. I began my coding journey in 2020, and while most of my projects remain private, I'm always open to chat or collaborate.
 
-- Ex Owner of [Green-Bot](https://green-bot.app), the 35th bigger bot on discord!
+## 🚀 Projects & Roles
 
-- Ex Owner of a bunch of verified Discord Bot, APIs, NPM packages and more
+Here's a glimpse into my journey:
 
-- Currently managing a local radio website. 
+- 🌐 Maintainer of [PopCat](https://popcat.xyz), a project with over 10 different features and an API that receives more than 300k daily requests.
 
-### Informations, Links, Languages 
+- 🤖 Former Owner of [Green-Bot](https://green-bot.app), the 31th biggest Discord bot, and it's still actively used in 1 million servers!
 
+- 💼 Former owner of various verified Discord bots, APIs, NPM packages, and more.
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.bananonz.dev)
-![Discord](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bananonz_)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/g0gi8surwac7cjs4nnpwttyen?si=0eda515ee8574fe0)
+- 📻 Currently managing an entire radio website and its associated services.
 
-[![Coded for](https://wakatime.com/badge/user/6d679d0d-4091-441a-876e-086352c2b315.svg)](https://wakatime.com/@6d679d0d-4091-441a-876e-086352c2b315)
+- 🐾 Zootechnician by passion, bridging the gap between technology and the animal kingdom.
 
-What i'm doin'
+## 🌐 Get in Touch
+
+You can reach out to me via:
+
+- 📬 Twitter: [Send me a message](https://twitter.com/bananonz_)
+- 💬 Discord: [Join my server](https://discord.bananonz.dev)
+- 🎵 Spotify: [Check out my account](https://open.spotify.com/user/g0gi8surwac7cjs4nnpwttyen?si=0eda515ee8574fe0)
+
+## 📚 Languages & Tools
+
+Here are some of the tools and languages I work with:
+
+- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
+- ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+## 💻 Coding Stats
+
+I track my coding hours using Wakatime. Check out my coding stats [here](https://wakatime.com/@6d679d0d-4091-441a-876e-086352c2b315).
+
+## 🎮 Currently...
+
+You can see what I'm up to on Discord through my presence status:
 
 ![DiscordPresence](https://lanyard.cnrad.dev/api/660477458209964042)
 
-
+Feel free to connect and chat about tech, projects, or anything that piques your interest!
+(a special thank to my english teacher for correcting all my writing mistakes)
