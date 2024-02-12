@@ -21,7 +21,7 @@ Here's a glimpse into my journey:
 You can reach out to me via:
 
 - 📬 Twitter: [Send me a message](https://twitter.com/bananonz_)
-- 💬 Discord: [Join my server](https://discord.bananonz.dev)
+- 💬 Discord: [Join my server](https://discord.gg/greenbot)
 - 🎵 Spotify: [Check out my account](https://open.spotify.com/user/g0gi8surwac7cjs4nnpwttyen?si=0eda515ee8574fe0)
 
 ## 📚 Tools & Technologies
