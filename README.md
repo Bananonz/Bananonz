@@ -22,7 +22,8 @@ You can reach out to me via:
 
 - 📬 Twitter: [Send me a message](https://twitter.com/bananonz_)
 - 💬 Discord: [Join my server](https://discord.gg/greenbot)
-- 🎵 Spotify: [Check out my account](https://open.spotify.com/user/g0gi8surwac7cjs4nnpwttyen?si=0eda515ee8574fe0)
+- 📻 Stats.fm: [I listen a lot of music!](https://stats.fm/rickroll)
+- 📧 Mail: [Send me a mail](mailto:mattia@green-bot.app)
 
 ## 📚 Tools & Technologies
 
@@ -35,12 +36,6 @@ You can reach out to me via:
 ## 💻 Coding Stats
 
 I track my coding hours using Wakatime. Check out my coding stats [here](https://wakatime.com/@6d679d0d-4091-441a-876e-086352c2b315).
-
-## 🎮 Currently...
-
-You can see what I'm up to on Discord through my presence status:
-
-![DiscordPresence](https://lanyard.cnrad.dev/api/660477458209964042)
 
 Feel free to connect and chat about tech, projects, or anything that piques your interest!
 
