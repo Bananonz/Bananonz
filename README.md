@@ -10,7 +10,7 @@ Here's a glimpse into my journey:
 
 - 🤖 Former Owner of [Green-Bot](https://green-bot.app), the 31th biggest Discord bot, and it's still actively used in 1 million servers!
 
-- 💼 Former owner of various verified Discord bots, APIs, NPM packages, and more.
+- 💼 Former Owner of various verified Discord bots, APIs, NPM packages, and more.
 
 - 📻 Currently managing an entire radio website and its associated services.
 
