@@ -8,13 +8,13 @@ Here's a glimpse into my journey:
 
 - 🌐 Maintainer of [PopCat](https://popcat.xyz), a project with over 10 different features and an API that receives more than 300k daily requests.
 
-- 🤖 Former Owner of [Green-Bot](https://green-bot.app), the 28th biggest Discord bot, and it's still actively used in 1 million servers!
+- 🤖 Former Owner of [Green-Bot](https://green-bot.app), the 28th biggest Discord bot, and it's still actively used in 1.5 million servers!
 
-- 💼 Former Owner of various verified Discord bots, APIs, NPM packages, and more.
+- 💼 Former Owner of various verified Discord bots, APIs, NPM packages.
 
-- 📻 Currently managing an entire radio website and its associated services.
+- 📻 Currently managing a radio and related streaming services.
 
-- 🐾 Zootechnician by passion, bridging the gap between technology and the animal kingdom.
+- 🐾 Zootechnician by passion.
 
 ## 🌐 Get in Touch
 
